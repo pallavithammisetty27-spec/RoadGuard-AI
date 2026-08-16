@@ -12,7 +12,7 @@ client = InferenceHTTPClient(
 st.set_page_config(page_title="Smart Pothole Detection", layout="wide")
 
 st.title("🚨 Smart Pothole Detection")
-st.markdown("App open ayindhi, camera lo road ni chudandi... AI automatic ga potholes ni detect chesthundi!")
+st.markdown("App is open ,View the road in the camera!")
 
 class PotholeTransformer(VideoTransformerBase):
     def transform(self, frame):
