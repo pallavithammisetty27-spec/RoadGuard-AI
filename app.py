@@ -6,7 +6,7 @@ from inference_sdk import InferenceHTTPClient
 # Roboflow Client Setup
 client = InferenceHTTPClient(
     api_url="https://detect.roboflow.com",
-    api_key="MEE_API_KEY_IKKADA_PETTANDI" # Ikkada mee real key pettandi
+    api_key="vqXPJrPdpCdnUCm9TzTM"
 )
 
 st.set_page_config(page_title="Smart Pothole Detection", layout="wide")
