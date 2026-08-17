@@ -1,0 +1,5 @@
+streamlit
+streamlit-webrtc
+inference-sdk
+ultralytics
+opencv-python-headless

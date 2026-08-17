@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
-#import cv2
+import cv2
 from inference_sdk import InferenceHTTPClient
 
 # Roboflow Client Setup
