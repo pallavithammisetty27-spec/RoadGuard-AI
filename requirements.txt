@@ -2,3 +2,4 @@ streamlit
 ultralytics
 opencv-python
 streamlit-webrtc
+inference-sdk
